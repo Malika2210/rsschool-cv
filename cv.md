@@ -20,9 +20,9 @@ I am a quality manager by profession, I like to solve problems and optimize busi
 * Wix and Wordpress;
 *********
 ## My projects in IT
-* [Tumar][https://www.tumar.com/]
-* [Ulonet]["https://ulonet.com/"]
-* [Code example]["https://github.com/Malika2210/todo"]
+* Tumar https://www.tumar.com/
+* Ulonet https://ulonet.com/
+* Code example https://github.com/Malika2210/todo
 *********
 ## Education
 * Total Quality Manager, Kyrgyz Russian Slavic University
