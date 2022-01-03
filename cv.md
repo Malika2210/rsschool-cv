@@ -1,6 +1,6 @@
 # Malika Aidarova
 *********
-![Photo](/me.jpeg")
+![Photo]("me.jpeg")
 *********
 * Address: Bishkek, Kyrgyzstan
 * Phone: +996 505191191
