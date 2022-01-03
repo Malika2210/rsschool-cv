@@ -5,7 +5,7 @@
 * Address: Bishkek, Kyrgyzstan
 * gitPhone: +996 505191191
 * E-mail: a.malika.b@gmail.com
-* LinkedIn: [Profile]("https://www.linkedin.com/in/malika-aidarova-8a3909145/")
+* LinkedIn: [Profile]["https://www.linkedin.com/in/malika-aidarova-8a3909145/"]
 * GitHub: Malika2210
 ********
 ## Summary
@@ -20,9 +20,9 @@ I am a quality manager by profession, I like to solve problems and optimize busi
 * Wix and Wordpress;
 *********
 ## My projects in IT
-* [Tumar]("https://www.tumar.com/")
-* [Ulonet]("https://ulonet.com/")
-* [Code example]("https://github.com/Malika2210/todo")
+* [Tumar][https://www.tumar.com/]
+* [Ulonet]["https://ulonet.com/"]
+* [Code example]["https://github.com/Malika2210/todo"]
 *********
 ## Education
 * Total Quality Manager, Kyrgyz Russian Slavic University
