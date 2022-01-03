@@ -1,0 +1,28 @@
+.cont {
+    display: flex;
+    
+}
+
+div {
+    width: 50%;
+}
+
+.footer {
+    background-color: rgb(148, 219, 148);
+}
+
+.footer img {
+    margin-left: 80%;
+}
+
+h3 {
+    color: rgb(77, 145, 77);
+}
+
+.foto {
+    padding-left: 30%;
+}
+
+small {
+    padding-top: 50%;
+}
