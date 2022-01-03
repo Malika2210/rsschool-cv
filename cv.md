@@ -3,9 +3,9 @@
 ![Photo](me.jpeg")
 *********
 * Address: Bishkek, Kyrgyzstan
-* gitPhone: +996 505191191
+* Phone: +996 505191191
 * E-mail: a.malika.b@gmail.com
-* LinkedIn: [Profile]["https://www.linkedin.com/in/malika-aidarova-8a3909145/"]
+* LinkedIn: Profile https://www.linkedin.com/in/malika-aidarova-8a3909145/
 * GitHub: Malika2210
 ********
 ## Summary
