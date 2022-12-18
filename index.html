@@ -1,0 +1,124 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <link rel="icon" href="./assets/icon/tree.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <title>CV</title>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                    <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                    <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                    <li class="nav-item"><a href="#mycode" class="nav-link">Code</a></li>
+                    <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+                    <li class="nav-item"><a href="#experience" class="nav-link">Experience</a></li>
+                    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                    <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main class="main">
+            <div class="container main-container">
+                <section class="section-profile section" id="profile">
+                    <img src="./assets/img/me2.jpg" alt="Malika" class="section-profile-logo">
+                    <div class="section-profile-title">
+                        <h1 class="section-title main-title">Malika Aidarova</h1>
+                        <h3 class="section-subtitle">Junior Frontend Developer</h3>
+                        <h3 class="section-subtitle">Junior Salesforce Administrator/Developer</h3>
+                    </div>
+
+                </section>
+                <section class="contacts section" id="#contacts">
+                    <h2 class="section-title">Contacts</h2>
+                    <ul>
+                        <li>Phone: +996505191191</li>
+                        <li>E-mail: a.malika.b@gmail.com</li>
+                        <li>Telegram: <a href="https://t.me/MalikaAidar" class="link">t.me/MalikaAidar</a></li>
+                        <li>Github: <a href="https://github.com/Malika2210" class="link">github.com/Malika2210</a></li>
+                    </ul>
+                </section>  
+                <section class="about section" id="summary">
+                    <h2 class="section-title">Summary</h2>
+                    <p>I'm a  web developer with experience in building websites for small businesses. 
+        I'm Salesforce☁️Certified Professional (Administrator, Platform App Builder and Jr.Salesforce Developer).</p>
+                </section>
+                <section class="skills section" id="skills">
+                    <h2 class="section-title">Skills</h2>
+                    <ul>
+                        <li>HTML | CSS</li>
+                        <li>Wordpress | Wix | Joomla</li>
+                        <li>JavaScript Basics</li>
+                        <li>Git | GitHub | Fork | Jira | Confluence</li>
+                        <li>VS Code | Filezilla | Open Server</li>
+                        <li>Salesforce Lightning | Sales Cloud | Service Cloud | Apex</li>
+                    </ul>
+                </section>
+
+                <section class="mycode section" id="mycode">
+                    <h2 class="section-title">Code</h2>
+                    <pre class="pre"><code>trigger NameUpdate on Account (before insert) {
+                                for(Account acc: Trigger.new){
+                                    acc.Name = 'Test Trigger';
+                                }
+                    }</code></pre>
+                </section>
+                <section class="experience section" id="experience">
+                    <h2 class="section-title">Experience</h2>
+                    <ul>
+                        <li>April - September 2022 DC Property Management, Salesforce Administrator/Developer (Internship)</li>
+                        <li>October - March  2022 RID Productions, Junior Wordpress Developer</li>
+                        <li>March - September 2022 OverLead.me, Junior Wordpress Developer</li>
+                        <li>October 2013 - February 2017 Kyrgyz Concept, Total Quality Manager</li>
+
+                    </ul>
+                </section>
+                <section class="projects section" id="projects">
+                    <h2 class="section-title">Projects</h2>
+                    <ul>
+                        <li><a href="https://www.tumar.com/" class="link">Tumar</a></li>
+                        <li><a href="https://tcenter.kg/" class="link">Tcenter</a></li>
+                        <li><a href="http://mrbetts.com/" class="link">MrBetts</a></li>
+                        <li><a href="https://greatwestcasino.com/" class="link">GreatWestCasino</a></li>
+                        <li><a href="http://wp30.ismarsuleimanov.pw72n.spectrum.myjino.ru/" class="link">New</a></li>
+                    </ul>
+                </section>
+                
+                <section class="education section" id="education">
+                    <h2 class="section-title">Education</h2>
+                    <p>Kyrgyz Russian Slavic University. Master's degree, Faculty of Economics. Total Quality Management</p>
+                </section>
+                <section class="section languages" id="languages">
+                    <h2 class="section-title">Languages</h2>
+                    <ul>
+                        <li>English - Intermediate</li>
+                        <li>Russian - Fluent</li>
+                        <li>Kyrgyz - Native</li>
+                    </ul>
+                </section>
+
+            </div>
+    </main>
+    
+    <footer class="footer">
+        <div class="container footer-container">
+            <div>
+                <span>© 2022</span>
+                <a href="https://github.com/Malika2210" class="github nav-link"></a>
+            </div>
+            <a href="https://rs.school/js/" class="rss"></a>
+        </div>
+    </footer>
+</body>
+</html>
+
